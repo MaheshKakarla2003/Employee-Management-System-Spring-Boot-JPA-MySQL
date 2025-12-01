@@ -80,6 +80,11 @@ src/main/java/com/employee/management
 
 ---
 
+<img width="900" height="650" alt="Screenshot 2025-12-01 152100" src="https://github.com/user-attachments/assets/056bc569-8bc6-4313-be7a-afe4128e521b" />
+
+
+
+---
 ## ⚙️ Setup
 
 ### 1️⃣ Clone the Repository
